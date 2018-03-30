@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_player: {fileID: 1055000266}
-  m_limit: {x: 3.1, y: 2.1}
+  m_limit: {x: 2.9, y: 2.1}
 --- !u!1 &537173407
 GameObject:
   m_ObjectHideFlags: 0
@@ -383,7 +383,6 @@ MonoBehaviour:
   m_hpGauge: {fileID: 1100819470}
   m_expGauge: {fileID: 1802781083}
   m_levelText: {fileID: 1362263835}
-  m_expText: {fileID: 0}
   m_gameOverText: {fileID: 1182338134}
 --- !u!1 &587595585
 GameObject:
