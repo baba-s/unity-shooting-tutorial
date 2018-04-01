@@ -21,6 +21,11 @@ public class Shot : MonoBehaviour
 		// 発射角度と速さから速度を求める
 		m_velocity = direction * speed;
 
+		// 弾が進行方向を向くようにする
+		var angles = transform.localEulerAngles;
+		angles.z = angle - 90;
+		transform.localEulerAngles = angles;
+
 		// 2 秒後に削除する
 		Destroy( gameObject, 2 );
 	}

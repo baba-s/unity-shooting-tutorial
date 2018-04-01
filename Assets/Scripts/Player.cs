@@ -100,7 +100,7 @@ public class Player : MonoBehaviour
 			for ( int i = 0; i < count; ++i )
 			{
 				// 弾の発射角度を計算する
-				float angle = angleBase + angleRange * i / ( count - 1 ) - 0.5f;
+				var angle = angleBase + angleRange * ( ( float )i / ( count - 1 ) - 0.5f );
 
 				// 発射する弾を生成する
 				var shot = Instantiate( m_shotPrefab, pos, rot );

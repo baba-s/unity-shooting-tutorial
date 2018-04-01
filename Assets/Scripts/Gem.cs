@@ -4,8 +4,8 @@
 public class Gem : MonoBehaviour
 {
 	public int m_exp; // 取得できる経験値
-	public float m_brake; // 散らばる時の減速量、数値が小さいほどすぐ減速する
-	public float m_followAccel; // プレイヤーを追尾する時の加速度、数値が大きいほどすぐ加速する
+	public float m_brake = 0.9f; // 散らばる時の減速量、数値が小さいほどすぐ減速する
+	public float m_followAccel = 0.01f; // プレイヤーを追尾する時の加速度、数値が大きいほどすぐ加速する
 	public AudioClip m_goldClip; // 宝石を取得した時に再生する SE
 
 	private Vector3 m_direction; // 散らばる時の進行方向
