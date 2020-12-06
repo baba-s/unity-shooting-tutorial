@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: df74ac9d90e231d47b5e65fb3e43b3c9
-timeCreated: 1522317589
-licenseType: Free
+guid: 3863349b7467714458c769bd08f5128d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - m_shotPrefab: {instanceID: 0}
-  - m_levelUpClip: {fileID: 8300000, guid: 19b1057a115dde042bb44013362d1f9e, type: 3}
-  - m_damageClip: {fileID: 8300000, guid: 789a03dd5589ac94fb93e2a58d44a23e, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Shot
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -14,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - Player
-  - Shot
-  - Gem
-  - Enemy
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 

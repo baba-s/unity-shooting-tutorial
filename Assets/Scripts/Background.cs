@@ -4,7 +4,7 @@
 public class Background : MonoBehaviour
 {
 	public Transform m_player; // プレイヤー
-	public Vector2 m_limit; // 背景の移動範囲
+	public Vector2   m_limit;  // 背景の移動範囲
 
 	// 毎フレーム呼び出される関数
 	private void Update()
@@ -15,7 +15,8 @@ public class Background : MonoBehaviour
 		// 画面端の位置を取得する
 		var limit = Utils.m_moveLimit;
 
-		// プレイヤーが画面のどの位置に存在するのかを、0 から 1 の値に置き換える
+		// プレイヤーが画面のどの位置に存在するのかを、
+		// 0 から 1 の値に置き換える
 		var tx = 1 - Mathf.InverseLerp( -limit.x, limit.x, pos.x );
 		var ty = 1 - Mathf.InverseLerp( -limit.y, limit.y, pos.y );
 

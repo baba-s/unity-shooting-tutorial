@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 3e02e4b60326138499048472f158ebaf
-timeCreated: 1522321529
-licenseType: Free
+guid: 93016f7852046934d97a81129c9aba88
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - m_constManager: {fileID: 11400000, guid: 91704e29526639a4b93bd853853a2030, type: 2}
-  - m_audioSource: {instanceID: 0}
-  - m_goldClip: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

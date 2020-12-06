@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: cb31f07fa575ac84abc454a039de9a14
-timeCreated: 1522320202
-licenseType: Free
+guid: 7721c1d0d66b08546858802a94fb5e21
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - m_explosionPrefab: {fileID: 114137460383115542, guid: d6b016212efe70242ab05710d3522fac,
-      type: 2}
-  - m_deathClip: {fileID: 8300000, guid: 789a03dd5589ac94fb93e2a58d44a23e, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
