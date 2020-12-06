@@ -11,7 +11,7 @@ https://github.com/baba-s/unity-shooting-tutorial/blob/master/UnityShootingTutor
 
 # ZIP ファイルで Unity プロジェクトを入手
 
-1. このページの「Clone or download」ボタンから「Download ZIP」を選択する  
+1. このページの「Code」ボタンから「Download ZIP」を選択する  
 2. ダウンロードした「unity-shooting-tutorial-master.zip」を展開する  
 3. 展開した「unity-shooting-tutorial-master」フォルダを Unity で開く  
 
