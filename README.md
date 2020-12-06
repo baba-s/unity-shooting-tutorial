@@ -7,7 +7,7 @@
 1. 下記の URL を開く  
 https://github.com/baba-s/unity-shooting-tutorial/blob/master/UnityShootingTutorial.zip?raw=true  
 2. ダウンロードした「UnityShootingTutorial.zip」を展開する  
-3. 展開したフォルダ内の「UnityShootingTutorial.exe」を開く  
+3. 展開したフォルダ内の「shooting-tutorial.exe」を開く  
 
 # ZIP ファイルで Unity プロジェクトを入手
 
